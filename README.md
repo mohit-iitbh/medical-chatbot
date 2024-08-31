@@ -5,7 +5,7 @@ Chatbot able to interact with the users and respond to their queries related to 
 pdf format of the book "The Gale Encyclopedia of Medicine second edition volume 1"
 
 ## LLM used
-**open-source** LLama2 7b quantized model
+**open-source** LLama2 7b quantized model <br/>
 HuggingFace model link: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin
 
 ## Interface designing
