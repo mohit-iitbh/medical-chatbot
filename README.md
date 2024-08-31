@@ -1,11 +1,12 @@
 # medical-chatbot
-Chatbot able to interact with the users and respond to their queries related to medical terminologies.
+**Medical chatbot** able to interact with the users and respond to their queries related to medical terminologies by using **Retrieval-Augmented Generation(RAG)** methodology.
 
 ## Data used
 pdf format of the book "The Gale Encyclopedia of Medicine second edition volume 1"
 
 ## LLM used
 **open-source** LLama2 7b quantized model <br/>
+System should have **minimum of 16GB RAM** to properly use the LLama2 7b quantized model
 HuggingFace model link: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin
 
 ## Interface designing
