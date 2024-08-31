@@ -6,7 +6,7 @@ pdf format of the book "The Gale Encyclopedia of Medicine second edition volume 
 
 ## LLM used
 **open-source** LLama2 7b quantized model <br/>
-System should have **minimum of 16GB RAM** to properly use the LLama2 7b quantized model
+System should have **minimum of 16GB RAM** to properly use the LLama2 7b quantized model <br/>
 HuggingFace model link: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin
 
 ## Interface designing
