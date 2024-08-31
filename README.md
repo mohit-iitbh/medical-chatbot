@@ -12,6 +12,6 @@ HuggingFace model link: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blo
 used **chainlit** package for the UI as it is an **open-source** Python package to build production ready Conversational AI.
 
 ## Using the medical-chatbot locally in the CPU machine
-1) Install the dependencies by using the requirements.txt file by running the command: pip install -r requirements.txt
+1) Install the dependencies by using the requirements.txt file by running the command: **pip install -r requirements.txt**
 2) Download the model from the given HuggingFace website link
-3) Command for running the chatbot: chainlit run medbot_app.py -w
+3) Command for running the chatbot: **chainlit run medbot_app.py -w**
